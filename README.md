@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋   
+I'm Mying, postgraduate student in astronomy, NAOC, UCAS  
 
-<!--
-**zhenzhenwave/zhenzhenwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Now working on 🔭  
 
-Here are some ideas to get you started:
+- [ULySS_M](https://github.com/zhenzhenwave/ULySS_M) :Extracting stellar parameters via [ULySS](http://ulyss.univ-lyon1.fr/) , optimise for M drawfts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning on 🌱  
+
+- IDL/GDL  
+- Python/Pytorch  
+- LaTeX & TeX   
+
+### My Blog 👯  
+
+-->  
+
+### Contact 
+
+My E-Mial : dingmingyi20@nao.cas.cn
